@@ -252,9 +252,6 @@ const cancelAppointment = async (req, res) => {
 
 // to make online payment using razorpay
 
-const paymentRazorpay = async (req, res) => {
-
-}
 
 
 export {registerUser, loginUser, getProfile, updateProfile, bookAppointment, listAppointment, cancelAppointment}
