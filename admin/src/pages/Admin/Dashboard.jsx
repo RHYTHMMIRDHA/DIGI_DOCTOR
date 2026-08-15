@@ -29,6 +29,7 @@ const Dashboard = () => {
         <div className='flexitems-center gap-2 bg-white p-4 min-w-52 rounded border-2 border-gray-100 cursor-pointer hover:scale-105 transition-all'>
           <img src={assets.appointment_icon} alt="" />
           <div>
+            
             <p>{dashData.appointments}</p>
             <p>Appointments</p>
           </div>
