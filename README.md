@@ -55,39 +55,6 @@
 - React + Vite frontend applications
 - Separate patient and admin interfaces
 
----
-
-## 🖥️ Screenshots
-
-### Patient Portal
-
-#### Home Page
-![DIGI-DOCTOR Home Page](screenshots/home.png)
-
-#### All Doctors
-![All Doctors](screenshots/all-doctors.png)
-
-#### Doctor Details & Booking
-![Doctor Details](screenshots/doctor-details.png)
-
-#### My Appointments
-![My Appointments](screenshots/my-appointments.png)
-
-### Admin Portal
-
-#### Appointments
-![Admin Appointments](screenshots/admin-appointments.png)
-
-#### Add Doctor
-![Add Doctor](screenshots/admin-add-doctor.png)
-
-#### Doctors List
-![Doctors List](screenshots/admin-doctors-list.png)
-
-> To use the screenshots above, create a `screenshots/` folder in the repository and place the corresponding images inside it. If you use different filenames, update the paths in this section.
-
----
-
 ## 🧰 Tech Stack
 
 ### Frontend
