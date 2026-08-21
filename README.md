@@ -2,7 +2,7 @@
 
 **DIGI-DOCTOR** is a full-stack healthcare appointment management platform built using the MERN stack. It provides separate workflows for **Patients, Doctors, and Administrators**, allowing patients to discover doctors and book appointments while doctors and admins manage availability and appointments.
 
-> **Note:** This project is intended for educational/portfolio purposes. It is not a substitute for a production-grade healthcare system.
+> **Note:** This project is intended for educational/portfolio purposes. It is not a substitute for a production-grade healthcare system. Although it can be extended to production-grade one.
 
 ---
 
